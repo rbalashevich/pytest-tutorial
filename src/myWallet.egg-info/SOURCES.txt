@@ -1,0 +1,6 @@
+pyproject.toml
+setup.cfg
+src/myWallet.egg-info/PKG-INFO
+src/myWallet.egg-info/SOURCES.txt
+src/myWallet.egg-info/dependency_links.txt
+src/myWallet.egg-info/top_level.txt

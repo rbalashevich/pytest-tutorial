@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: myWallet
+Version: 0.1
+Summary: pytest tutorial
+Home-page: https://github.com/otomato-gh/pytest-tutorial
+Author: Otomator Otomator
+Author-email: contact@otomato.io
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/otomato-gh/pytest-tutorial/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+UNKNOWN
+
